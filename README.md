@@ -1,4 +1,5 @@
-# PBO_Latihan1
+# ORIENTED OBJECT PROGRAMMING
+#Latihan 1
 
       public class Person {
 
