@@ -38,5 +38,4 @@
         }
     }
     
-![Screenshot (1)](https://user-images.githubusercontent.com/115928747/196046682-11d3b179-85d5-41bb-a248-9deb1f15bf27.png)
 
