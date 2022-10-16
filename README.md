@@ -1,5 +1,5 @@
 # ORIENTED OBJECT PROGRAMMING
-#Latihan 1
+## Latihan 1
 
       public class Person {
 
